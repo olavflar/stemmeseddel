@@ -1,6 +1,6 @@
 # Stemmeseddel-prosjekt
 
-Problemstilling
+## Problemstilling
 Under generalforsamlinger i borettslag eller sameier er det normalt en tidskrevende, manuell prosess å finne ut av hvem som er stemmeberettiget og å fordele stemmesedler basert på eierandeler. Styret må håndtere køer, håndtere lister, og forsikre seg om at kun riktige personer får utdelt stemmesedler med korrekt vekt. Dette skaper ofte lange ventetider, risiko for feil og frustrasjon blant beboere.
 
 Foreslått løsning
